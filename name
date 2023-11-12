@@ -1,0 +1,4 @@
+/Users/qiaoxi/Desktop/设计/stock_analysis
+
+# 解决调试器警告
+os.environ['PYDEVD_DISABLE_FILE_VALIDATION'] = '1'
